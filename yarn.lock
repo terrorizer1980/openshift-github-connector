@@ -1725,10 +1725,10 @@
   resolved "https://registry.yarnpkg.com/@panva/asn1.js/-/asn1.js-1.0.0.tgz#dd55ae7b8129e02049f009408b97c61ccf9032f6"
   integrity sha512-UdkG3mLEqXgnlKsWanWcgb6dOjUzJ+XC5f+aWw30qrtjxeNUSfKX1cd5FBzOaXQumoe9nIqeZUvrRJS03HCCtw==
 
-"@patternfly/patternfly@^4.115.2":
-  version "4.115.2"
-  resolved "https://registry.yarnpkg.com/@patternfly/patternfly/-/patternfly-4.115.2.tgz#200111d52fe07d1380371530304bad9edf45de51"
-  integrity sha512-7hbJ4pRmj+rlXclD2F/UwceO6fS+9flGsgHc4eUc7NyTN2GXl6PLcqrjE2CtiKEPV90+KwsGQGJXZj8bz9HweA==
+"@patternfly/patternfly@^4.164.4":
+  version "4.171.1"
+  resolved "https://registry.yarnpkg.com/@patternfly/patternfly/-/patternfly-4.171.1.tgz#15712e97d9ca53a0c3c7d15c8f28dea80a52fbdc"
+  integrity sha512-e5Ykg+QOo8TsyOyG6SqytAs52MJXwaP020z3twb8z9G3ZNra92uNsrxGgZEqPJoWbjU4K7LGDxy2DOM1FeRoFw==
 
 "@patternfly/react-core@^4.135.0":
   version "4.135.0"
