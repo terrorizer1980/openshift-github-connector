@@ -46,7 +46,7 @@
     "@octokit/plugin-paginate-rest": "^2.13.5",
     "@patternfly/patternfly": "^4.115.2",
     "@patternfly/react-core": "^4.135.0",
-    "@patternfly/react-icons": "^4.11.0",
+    "@patternfly/react-icons": "^4.33.0",
     "@patternfly/react-table": "^4.29.0",
     "bootstrap": "^5.0.2",
     "classnames": "^2.3.1",
